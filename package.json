@@ -1,0 +1,12 @@
+{
+  "name": "farm-ai-backend",
+  "version": "1.0.0",
+  "description": "Naveed Farm Line Backend",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
